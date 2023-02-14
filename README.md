@@ -1,2 +1,2 @@
-# SimNano_Xhan
-Repositorio p/simulación de nanomateriales
+# XHANGEL 13
+Repositorio p/cositas cool
